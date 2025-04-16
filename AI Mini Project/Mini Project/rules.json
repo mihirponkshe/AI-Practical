@@ -1,0 +1,355 @@
+[
+    {
+      "flight": "AI-101",
+      "destination": "Delhi",
+      "max_weight": 1000,
+      "airport_code": "DEL",
+      "departure_time": "18:30",
+      "carbon_footprint": 50
+    },
+    {
+      "flight": "AI-102",
+      "destination": "Delhi",
+      "max_weight": 1500,
+      "airport_code": "DEL",
+      "departure_time": "20:00",
+      "carbon_footprint": 45
+    },
+    {
+      "flight": "AI-201",
+      "destination": "Mumbai",
+      "max_weight": 2000,
+      "airport_code": "BOM",
+      "departure_time": "19:00",
+      "carbon_footprint": 55
+    },
+    {
+      "flight": "AI-202",
+      "destination": "Mumbai",
+      "max_weight": 2500,
+      "airport_code": "BOM",
+      "departure_time": "21:15",
+      "carbon_footprint": 48
+    },
+    {
+      "flight": "AI-301",
+      "destination": "Bangalore",
+      "max_weight": 1500,
+      "airport_code": "BLR",
+      "departure_time": "17:45",
+      "carbon_footprint": 52
+    },
+    {
+      "flight": "AI-302",
+      "destination": "Bangalore",
+      "max_weight": 1800,
+      "airport_code": "BLR",
+      "departure_time": "20:30",
+      "carbon_footprint": 50
+    },
+    {
+      "flight": "AI-401",
+      "destination": "Chennai",
+      "max_weight": 1200,
+      "airport_code": "MAA",
+      "departure_time": "18:00",
+      "carbon_footprint": 47
+    },
+    {
+      "flight": "AI-402",
+      "destination": "Chennai",
+      "max_weight": 2200,
+      "airport_code": "MAA",
+      "departure_time": "21:00",
+      "carbon_footprint": 46
+    },
+    {
+      "flight": "AI-501",
+      "destination": "Hyderabad",
+      "max_weight": 1600,
+      "airport_code": "HYD",
+      "departure_time": "19:30",
+      "carbon_footprint": 53
+    },
+    {
+      "flight": "AI-502",
+      "destination": "Hyderabad",
+      "max_weight": 2400,
+      "airport_code": "HYD",
+      "departure_time": "22:00",
+      "carbon_footprint": 50
+    },
+    {
+      "flight": "AI-601",
+      "destination": "Kolkata",
+      "max_weight": 1300,
+      "airport_code": "CCU",
+      "departure_time": "18:45",
+      "carbon_footprint": 54
+    },
+    {
+      "flight": "AI-602",
+      "destination": "Kolkata",
+      "max_weight": 2300,
+      "airport_code": "CCU",
+      "departure_time": "21:30",
+      "carbon_footprint": 49
+    },
+    {
+      "flight": "AI-701",
+      "destination": "Pune",
+      "max_weight": 1400,
+      "airport_code": "PNQ",
+      "departure_time": "17:30",
+      "carbon_footprint": 51
+    },
+    {
+      "flight": "AI-702",
+      "destination": "Pune",
+      "max_weight": 2100,
+      "airport_code": "PNQ",
+      "departure_time": "20:45",
+      "carbon_footprint": 48
+    },
+    {
+      "flight": "AI-801",
+      "destination": "Ahmedabad",
+      "max_weight": 1100,
+      "airport_code": "AMD",
+      "departure_time": "18:15",
+      "carbon_footprint": 53
+    },
+    {
+      "flight": "AI-802",
+      "destination": "Ahmedabad",
+      "max_weight": 2000,
+      "airport_code": "AMD",
+      "departure_time": "20:30",
+      "carbon_footprint": 47
+    },
+    {
+      "flight": "AI-901",
+      "destination": "Jaipur",
+      "max_weight": 1700,
+      "airport_code": "JAI",
+      "departure_time": "19:00",
+      "carbon_footprint": 52
+    },
+    {
+      "flight": "AI-902",
+      "destination": "Jaipur",
+      "max_weight": 2600,
+      "airport_code": "JAI",
+      "departure_time": "21:15",
+      "carbon_footprint": 48
+    },
+    {
+      "flight": "AI-1001",
+      "destination": "Lucknow",
+      "max_weight": 1500,
+      "airport_code": "LKO",
+      "departure_time": "18:00",
+      "carbon_footprint": 50
+    },
+    {
+      "flight": "AI-1002",
+      "destination": "Lucknow",
+      "max_weight": 2400,
+      "airport_code": "LKO",
+      "departure_time": "20:30",
+      "carbon_footprint": 46
+    },
+    {
+      "flight": "AI-1101",
+      "destination": "Chandigarh",
+      "max_weight": 1200,
+      "airport_code": "IXC",
+      "departure_time": "17:45",
+      "carbon_footprint": 53
+    },
+    {
+      "flight": "AI-1102",
+      "destination": "Chandigarh",
+      "max_weight": 2200,
+      "airport_code": "IXC",
+      "departure_time": "20:00",
+      "carbon_footprint": 47
+    },
+    {
+      "flight": "AI-1201",
+      "destination": "Surat",
+      "max_weight": 1300,
+      "airport_code": "STV",
+      "departure_time": "18:30",
+      "carbon_footprint": 52
+    },
+    {
+      "flight": "AI-1202",
+      "destination": "Surat",
+      "max_weight": 1900,
+      "airport_code": "STV",
+      "departure_time": "20:00",
+      "carbon_footprint": 48
+    },
+    {
+      "flight": "AI-1301",
+      "destination": "Nagpur",
+      "max_weight": 1400,
+      "airport_code": "NAG",
+      "departure_time": "18:45",
+      "carbon_footprint": 51
+    },
+    {
+      "flight": "AI-1302",
+      "destination": "Nagpur",
+      "max_weight": 2000,
+      "airport_code": "NAG",
+      "departure_time": "21:00",
+      "carbon_footprint": 47
+    },
+    {
+      "flight": "AI-1401",
+      "destination": "Indore",
+      "max_weight": 1200,
+      "airport_code": "IDR",
+      "departure_time": "17:30",
+      "carbon_footprint": 50
+    },
+    {
+      "flight": "AI-1402",
+      "destination": "Indore",
+      "max_weight": 1800,
+      "airport_code": "IDR",
+      "departure_time": "20:00",
+      "carbon_footprint": 46
+    },
+    {
+      "flight": "AI-1501",
+      "destination": "Kochi",
+      "max_weight": 1100,
+      "airport_code": "COK",
+      "departure_time": "18:00",
+      "carbon_footprint": 53
+    },
+    {
+      "flight": "AI-1502",
+      "destination": "Kochi",
+      "max_weight": 1700,
+      "airport_code": "COK",
+      "departure_time": "20:30",
+      "carbon_footprint": 49
+    },
+    {
+      "flight": "AI-1601",
+      "destination": "Visakhapatnam",
+      "max_weight": 1300,
+      "airport_code": "VTZ",
+      "departure_time": "18:15",
+      "carbon_footprint": 52
+    },
+    {
+      "flight": "AI-1602",
+      "destination": "Visakhapatnam",
+      "max_weight": 1900,
+      "airport_code": "VTZ",
+      "departure_time": "21:00",
+      "carbon_footprint": 48
+    },
+    {
+      "flight": "AI-1701",
+      "destination": "Bhopal",
+      "max_weight": 1200,
+      "airport_code": "BHO",
+      "departure_time": "17:45",
+      "carbon_footprint": 51
+    },
+    {
+      "flight": "AI-1702",
+      "destination": "Bhopal",
+      "max_weight": 1800,
+      "airport_code": "BHO",
+      "departure_time": "20:15",
+      "carbon_footprint": 47
+    },
+    {
+      "flight": "AI-1801",
+      "destination": "Guwahati",
+      "max_weight": 1300,
+      "airport_code": "GAU",
+      "departure_time": "18:30",
+      "carbon_footprint": 52
+    },
+    {
+      "flight": "AI-1802",
+      "destination": "Guwahati",
+      "max_weight": 1900,
+      "airport_code": "GAU",
+      "departure_time": "21:00",
+      "carbon_footprint": 48
+    },
+    {
+      "flight": "AI-1901",
+      "destination": "Thiruvananthapuram",
+      "max_weight": 1100,
+      "airport_code": "TRV",
+      "departure_time": "18:00",
+      "carbon_footprint": 53
+    },
+    {
+      "flight": "AI-1902",
+      "destination": "Thiruvananthapuram",
+      "max_weight": 1700,
+      "airport_code": "TRV",
+      "departure_time": "20:30",
+      "carbon_footprint": 49
+    },
+    {
+      "flight": "AI-2001",
+      "destination": "Coimbatore",
+      "max_weight": 1200,
+      "airport_code": "CJB",
+      "departure_time": "17:30",
+      "carbon_footprint": 51
+    },
+    {
+      "flight": "AI-2002",
+      "destination": "Coimbatore",
+      "max_weight": 1800,
+      "airport_code": "CJB",
+      "departure_time": "20:00",
+      "carbon_footprint": 47
+    },
+    {
+      "flight": "AI-2101",
+      "destination": "Varanasi",
+      "max_weight": 1300,
+      "airport_code": "VNS",
+      "departure_time": "18:15",
+      "carbon_footprint": 52
+    },
+    {
+      "flight": "AI-2102",
+      "destination": "Varanasi",
+      "max_weight": 1900,
+      "airport_code": "VNS",
+      "departure_time": "20:45",
+      "carbon_footprint": 48
+    },
+    {
+      "flight": "AI-2201",
+      "destination": "Agra",
+      "max_weight": 1200,
+      "airport_code": "AGR",
+      "departure_time": "17:45",
+      "carbon_footprint": 51
+    },
+    {
+      "flight": "AI-2202",
+      "destination": "Agra",
+      "max_weight": 1800,
+      "airport_code": "AGR",
+      "departure_time": "20:15",
+      "carbon_footprint": 47
+    }
+  ]
+  
